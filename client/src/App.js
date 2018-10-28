@@ -15,11 +15,16 @@ class App extends Component {
                 <img className="image-circle" alt="Portrait of Phil" src="pting_bw.jpg" />
               </div>
             </div>
-            <div className="flex-item-equal shadow-4">
+            <div className="flex-item-equal">
               <h1 className="yuge">Hello.</h1>
               <h1 className="yuge">I am Phil.</h1>
               <div className="description">
-                I write code for fully featured web applications.
+                <div>
+                  I write code.
+                </div>
+                <div>
+                  I make apps.
+                </div>
               </div>
               <div className="icon-container">
                 <div className="icon-item">
